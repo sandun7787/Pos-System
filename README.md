@@ -73,4 +73,4 @@ But first this Project was started by Mvc architecture and later it was converte
 * CSS
 
 ## License
-**Copyright @ 2022 All Right Reserved By Ishara Maduranga**
+**Copyright @ 2024 All Right Reserved By sandun warnasooriya**
